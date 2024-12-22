@@ -13,6 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya773-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bhavya773-coder&icon=4&color=10)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Bhavya77&label=Profile%20Views&icon=6&pretty=true" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
